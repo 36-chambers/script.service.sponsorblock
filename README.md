@@ -1,6 +1,6 @@
 # Kodi SponsorBlock
 
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/siku2/script.service.sponsorblock)](https://github.com/siku2/script.service.sponsorblock/releases/latest)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/36-chambers/script.service.sponsorblock)](https://github.com/36-chambers/script.service.sponsorblock/releases/latest)
 [![gitlocalized](https://gitlocalize.com/repo/4205/whole_project/badge.svg)](https://gitlocalize.com/repo/4205)
 
 This is an **unofficial** port of the [SponsorBlock](https://sponsor.ajay.app/) browser extension.
@@ -12,10 +12,10 @@ For a detailed explanation of how SponsorBlock works please visit the [offical w
 
 ## Installation
 
-The add-on is available in [siku2's repository](https://siku2.io/kodi-repository).
+The add-on is available in [36-chambers's repository](https://36-chambers.io/kodi-repository).
 
-1. Install [siku2's repository](https://siku2.io/kodi-repository/install)
-2. Go to "Add-ons" > "Install from repository" > "siku2's Repository"
+1. Install [36-chambers's repository](https://36-chambers.io/kodi-repository/install)
+2. Go to "Add-ons" > "Install from repository" > "36-chambers's Repository"
 3. Install "SponsorBlock" under "Services"
 
 Congratulations, you now have SponsorBlock installed.
@@ -34,7 +34,7 @@ The default setting is to only skip sponsor segments.
 ### Importing your account
 
 If you're already using SponsorBlock you might want to use your existing account (user id).
-To do this refer to the [Import an existing account](https://github.com/siku2/script.service.sponsorblock/wiki/Import-an-existing-account) wiki page.
+To do this refer to the [Import an existing account](https://github.com/36-chambers/script.service.sponsorblock/wiki/Import-an-existing-account) wiki page.
 
 ## Helping out
 
@@ -45,5 +45,5 @@ If there's a language missing please don't hesitate to ask for it to be added by
 
 ## Issues and Suggestions
 
-Feel free to [open a new issue](https://github.com/siku2/script.service.sponsorblock/issues/new) if you've encountered an issue or if you have a suggestion.
+Feel free to [open a new issue](https://github.com/36-chambers/script.service.sponsorblock/issues/new) if you've encountered an issue or if you have a suggestion.
 Bonus points if you [provide the debug logs](https://kodi.wiki/view/Log_file/Easy).

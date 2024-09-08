@@ -1,7 +1,7 @@
 # Kodi Media Center language file
 # Addon Name: SponsorBlock
 # Addon id: script.service.sponsorblock
-# Addon Provider: siku2
+# Addon Provider: 36-chambers
 msgid ""
 msgstr ""
 "MIME-Version: 1.0\n"

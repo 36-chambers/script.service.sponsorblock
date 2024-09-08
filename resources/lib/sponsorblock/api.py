@@ -17,7 +17,7 @@ from .utils import new_user_id
 logger = logging.getLogger(__name__)
 
 _USER_AGENT = (
-    "kodi-sponsorblock/{version} (https://github.com/siku2/script.service.sponsorblock)"
+    "kodi-sponsorblock/{version} (https://github.com/36-chambers/script.service.sponsorblock)"
 )
 
 

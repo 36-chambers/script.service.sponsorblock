@@ -1,6 +1,6 @@
 name: Kodi Addon-Check
 
-on: [push]
+on: [push,workflow_dispatch]
 
 jobs:
   kodi-addon-checker:
